@@ -11,8 +11,7 @@ Este repositório contém exemplos de implementação de diversos Design Pattern
 - [Padrões Estruturais](#padrões-estruturais)
   - :construction: em construção
 - [Padrões Comportamentais](#padrões-comportamentais)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
+  - :construction: em construção
 
 ## Introdução
 
