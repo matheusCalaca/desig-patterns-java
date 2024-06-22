@@ -6,7 +6,7 @@ Este repositório contém exemplos de implementação de diversos Design Pattern
 
 - [Introdução](#introdução)
 - [Padrões de Criação](#padrões-de-criação)
-    - [Factory Method](./src/main/java/br/com/matheuscalaca/factoryMethod/Readme.md)
+    - [Factory Method](./src/main/java/br/com/matheuscalaca/factoryMethod)
     - :construction: em construção
 - [Padrões Estruturais](#padrões-estruturais)
   - :construction: em construção
